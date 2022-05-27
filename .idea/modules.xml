@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/bytebank/bytebank.iml" filepath="$PROJECT_DIR$/bytebank/bytebank.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bytebank-composto/bytebank-composto.iml" filepath="$PROJECT_DIR$/bytebank-composto/bytebank-composto.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bytebank-encapsulado/bytebank-encapsulado.iml" filepath="$PROJECT_DIR$/bytebank-encapsulado/bytebank-encapsulado.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/java-basico.iml" filepath="$PROJECT_DIR$/.idea/java-basico.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sintaxe-basica/sintaxe-basica.iml" filepath="$PROJECT_DIR$/sintaxe-basica/sintaxe-basica.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sintaxe-variaveis-e-fluxo/sintaxe-variaveis-e-fluxo.iml" filepath="$PROJECT_DIR$/sintaxe-variaveis-e-fluxo/sintaxe-variaveis-e-fluxo.iml" />
+    </modules>
+  </component>
+</project>
